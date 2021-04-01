@@ -7,7 +7,7 @@ The updated portfolio contains homework assignments and a fullstack project to u
 
 This includeds the App titles.
 
-Live links to the deployed apps.
+Live links to the deployed Apps.
 
 A list of technologies used.
 
