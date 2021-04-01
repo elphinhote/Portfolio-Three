@@ -3,7 +3,16 @@ Updated Portfolio
 
 ## Description
 
-The updated portfolio, contains homework assignments and a fullstack project to update a responsive portfolio.
+The updated portfolio, contains homework assignments and a fullstack project to update a responsive portfolio
+with Title of app
+
+Live links to deployed app
+
+A list of technologies used
+
+1-2 sentences explaining what the app is
+
+Screenshots and gifs of the app.
 
 Preview
 
