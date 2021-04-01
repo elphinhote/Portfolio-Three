@@ -1,19 +1,21 @@
-# Portfoliio-2
+# Portfolio-2
 Updated Portfolio
 
 ## Description
 
-The updated portfolio, contains homework assignments and a fullstack project to update a responsive portfolio
+The updated portfolio contains homework assignments and a fullstack project to update a responsive portfolio.
 
-with the title of app
+This includeds the App titles.
 
-Live links to the deployed assignments
+Live links to the deployed apps.
 
-A list of technologies used
+A list of technologies used.
 
-1-2 sentences explaining what the app is
+1-2 sentences describing the app.
 
 Screenshots and gifs of the app.
+
+An updated resume.
 
 
 Preview
