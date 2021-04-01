@@ -9,7 +9,7 @@ Preview
 
 ![Portfolio Page](https://user-images.githubusercontent.com/65749636/110235007-973d0780-7ee2-11eb-9426-42c000bbd20e.PNG)
 
-![Updated Portfolio](https://user-images.githubusercontent.com/65749636/110235013-9f954280-7ee2-11eb-9af5-46fba978a449.PNG)
+![Updated Portfolio](https://user-images.githubusercontent.com/65749636/113250139-caba4a00-9274-11eb-8140-ac093ebc5f53.png)
 
 
 ## Links
