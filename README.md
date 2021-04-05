@@ -1,9 +1,9 @@
-# Portfolio-2
+# Portfolio-Three 
 Updated Portfolio
 
 ## Description
 
-The updated portfolio contains homework assignments and a fullstack project to update a responsive portfolio.
+The updated portfolio contains homework assignments and a fullstack project PubSpace to update a responsive portfolio.
 
 This includeds the App titles.
 
