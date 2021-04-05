@@ -3,13 +3,13 @@ Updated Portfolio
 
 ## Description
 
-The updated portfolio contains homework assignments and a fullstack project PubSpace to update a responsive portfolio.
+The updated portfolio contains homework assignments and a fullstack project called PubSpace to update a responsive portfolio.
 
 This includeds the App titles.
 
 Live links to the deployed Apps.
 
-An updated resume with a list of technologies used.
+An updated resume with a list of technologies.
 
 1-2 sentences describing the app.
 
