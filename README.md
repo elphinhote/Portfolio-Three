@@ -30,4 +30,4 @@ Preview
 
 Code Repository: https://github.com/elphinhote/Portfoliio-Three  
 
-Deployed Site:  https://elphinhote.github.io/Portfoliio-Three/
+Deployed Site:  https://elphinhote.github.io/Portfolio-Three/
