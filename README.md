@@ -28,6 +28,6 @@ Preview
 
 ## Links
 
-Code Repository: https://github.com/elphinhote/Portfoliio-2  
+Code Repository: https://github.com/elphinhote/Portfoliio-Three  
 
-Deployed Site:  https://elphinhote.github.io/Portfoliio-2/
+Deployed Site:  https://elphinhote.github.io/Portfoliio-Three/
