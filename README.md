@@ -15,7 +15,25 @@ An updated resume with a list of technologies used.
 
 Screenshots and gifs of the app.
 
+## Technologies Used
 
+* HTML
+* Javascript 
+* CSS 
+
+
+## License
+ISC
+
+<img src="https://img.shields.io/badge/LICENSE-isc-green"/>
+
+
+## Contributors
+Eva Wang
+
+## Questions
+Contact me:
+Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
 
 Preview
